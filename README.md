@@ -1,2 +1,2 @@
 # ProyectoBusquedaNoInformada
- Proyecto de Inteligencia ARtificial con BUSQUEDAS NO INFORMADAS
+ Proyecto de Inteligencia Artificial con BUSQUEDAS NO INFORMADAS
